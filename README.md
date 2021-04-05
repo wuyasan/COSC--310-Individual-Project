@@ -71,4 +71,6 @@ I'm sorry QAQ!
 ```
 
 ## GUI and Examples
-<img src="https://github.com/wuyasan/COSC--310-Individual-Project/blob/cb724fd2c929107a7da6af0a3177ca4a80f565cd/avogardro.png" width="700" height="700">
+<img src="https://github.com/wuyasan/COSC--310-Individual-Project/blob/cb724fd2c929107a7da6af0a3177ca4a80f565cd/avogardro.png" width="1000" height="1000">
+<img src="https://github.com/wuyasan/COSC--310-Individual-Project/blob/2933320119eed1bfa2c69b96ebec595909f6adfe/chemistry.png" width="1000" height="1000">
+<img src="https://github.com/wuyasan/COSC--310-Individual-Project/blob/2933320119eed1bfa2c69b96ebec595909f6adfe/computer.png" width="1000" height="1000">
