@@ -83,3 +83,4 @@ money***how much money are we talking about?
 how much do you earn***nobody pays me.  i work for free.
 see you***Enter 'bye' to exit the system
 good bye***Enter 'bye' to exit the system
+what is music***An arrangement of sounds having melody, rhythm and usually harmony classical music.
